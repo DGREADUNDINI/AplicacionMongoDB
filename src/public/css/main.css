@@ -1,0 +1,17 @@
+body {
+  background: #c9d6ff; 
+  background: -webkit-linear-gradient(
+    to right,
+    #e2e2e2,
+    #c9d6ff
+  ); /*para chrome*/
+  background: linear-gradient(
+    to right,
+    #e2e2e2,
+    #c9d6ff
+  ); 
+}
+
+.logo {
+  width: 30%;
+}
